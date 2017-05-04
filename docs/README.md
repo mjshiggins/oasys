@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# open assistance systems
+The purpose of oasys is to increase safety in motorcycle transportation through open-source ADAS (advanced driver assistance systems). Typically, ADAS features come in the form of automated braking to avoid collisions, lane keeping, and adaptive cruise control systems for cars and trucks. Typically, the most advanced safety features you'll find for motorcycles are things like ABS. oasys plans to change that.
 
-You can use the [editor on GitHub](https://github.com/mjshiggins/oasys/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjshiggins/oasys/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Project 1 - Heads-Up Spatial Awareness and Collision Warning
+Lane splitting in Bay Area traffic can be pretty dangerous. Using cheap sensors and hardware, let's build a system to give riders the ability to know what's around them without taking their eyes off of the road ahead. Trajectory estimation would be cool, based on the lean angle of the bike and handlebar position. Will likely use solid state LIDAR or some other vision based processing/odometry.
